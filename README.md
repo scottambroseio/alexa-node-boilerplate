@@ -1,3 +1,3 @@
-# Google Assistant Node Boilerplate (Unofficial)
+# Alexa Node Boilerplate (Unofficial)
 
-Boilerplate for building Google Assistant applications with NodeJS
+Boilerplate for building Alexa applications with NodeJS
